@@ -16,6 +16,8 @@ Deploy OWASP Juice Shop locally.
 2. Cloned my fork locally.
 3. Started the application using Docker.
 4. Verified that the homepage loaded.
+5.Captured requried screencaps.
+6.Branch protection ruleset to mandate PR before merge
 
 ## 4. Homepage screenshot
 ![Juice Shop homepage](docs/juice-shop-homepage.png/Users/dipikasingh/Documents/GitHub/juice-shop/screenshots/JS\ homepage.png )
